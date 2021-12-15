@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-TMDB-API-Pelispedia.git/static/css/main.ac830002.chunk.css",
+    "main.js": "/React-TMDB-API-Pelispedia.git/static/js/main.6bc0aa47.chunk.js",
+    "main.js.map": "/React-TMDB-API-Pelispedia.git/static/js/main.6bc0aa47.chunk.js.map",
+    "runtime-main.js": "/React-TMDB-API-Pelispedia.git/static/js/runtime-main.969a6b2e.js",
+    "runtime-main.js.map": "/React-TMDB-API-Pelispedia.git/static/js/runtime-main.969a6b2e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/React-TMDB-API-Pelispedia.git/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3d9c00de.chunk.js": "/React-TMDB-API-Pelispedia.git/static/js/2.3d9c00de.chunk.js",
+    "static/js/2.3d9c00de.chunk.js.map": "/React-TMDB-API-Pelispedia.git/static/js/2.3d9c00de.chunk.js.map",
+    "index.html": "/React-TMDB-API-Pelispedia.git/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/React-TMDB-API-Pelispedia.git/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ac830002.chunk.css.map": "/React-TMDB-API-Pelispedia.git/static/css/main.ac830002.chunk.css.map",
+    "static/js/2.3d9c00de.chunk.js.LICENSE.txt": "/React-TMDB-API-Pelispedia.git/static/js/2.3d9c00de.chunk.js.LICENSE.txt",
+    "static/media/img1.6217da66.jpg": "/React-TMDB-API-Pelispedia.git/static/media/img1.6217da66.jpg",
+    "static/media/img2.38706f3b.jpeg": "/React-TMDB-API-Pelispedia.git/static/media/img2.38706f3b.jpeg",
+    "static/media/img3.5306c44e.jpg": "/React-TMDB-API-Pelispedia.git/static/media/img3.5306c44e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969a6b2e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3d9c00de.chunk.js",
+    "static/css/main.ac830002.chunk.css",
+    "static/js/main.6bc0aa47.chunk.js"
+  ]
+}
